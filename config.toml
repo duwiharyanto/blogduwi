@@ -3,7 +3,7 @@ title = "Duwi Haryanto"
 theme = "portofolio"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "duwiharyanto-github-io"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
@@ -11,11 +11,11 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
-  description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  description = "Portofolio duwi haryanto"
+  copyright = "&copy;2016 haryanto.duwi"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "Seorang software enginer newbie yang belajar ngeblog, tapi jarang nulis. <span class='fa fa-fire'></span>",
+    "<span class='fa fa-home'></span> Bekerja dari rumah, Yogyakarta.",
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -29,7 +29,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "you@yoursite.com"
+  email = "haryanto.duwi@gmail.com"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
@@ -47,21 +47,21 @@ googleAnalytics = ""
   home = true
 
   [[params.navlinks]]
-  name = "About"
+  name = "Tentang"
   url = "about/"
 
   [[params.navlinks]]
-  name = "Get in touch"
+  name ="Kontak"
   url = "contact/"
 
   [params.social]
   #facebook      = "full page or profile url in facebook"
   #googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
+  email         = "haryanto.duwi@gmail.com"
   #twitter       = "full profile url in twitter"
   #linkedin      = "full profile url in linkedin"
   #stackoverflow = "full profile url in stackoverflow"
   #instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
+  github        = "duwiharyanto"
   youtube       = "full profile url in youtube"
   whatsapp      = "wa.me service link"
